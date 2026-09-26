@@ -1,1 +1,1 @@
-Dr. Ankit Agarwal
+Dr. Ankit Agarwal | Electronics & Communication Engineering | Educator & Researcher | Optical Fiber Communication, Photonics, Digital Systems, IoT & Embedded Systems | MATLAB • Python • HFSS • MEEP • KiCad
